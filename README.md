@@ -1,6 +1,7 @@
-![](https://komarev.com/ghpvc/?username=gldnwindy&style=plastic&color=FF82DB&label=venise)
+![](https://komarev.com/ghpvc/?username=gldnwindy&style=plastic&color=FF82DB&label=naples)
 
-<img width="736" height="736" alt="Untitled395_20260701023753" src="https://github.com/user-attachments/assets/907b38ce-4205-4ad3-bd99-116eca603232" />
+<img width="735" height="547" alt="Untitled475_20260809190055" src="https://github.com/user-attachments/assets/0873b529-f67c-450e-b644-e129ca3c53aa" />
+
 
 
 
