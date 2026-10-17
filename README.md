@@ -1,8 +1,12 @@
+
+
 <div align="center"> 
- 
+<img width="1500" height="500" alt="Untitled573_20261017040235" src="https://github.com/user-attachments/assets/c140e8e0-e706-4840-a70c-4168df3e2691" />
+
+
 ![](https://komarev.com/ghpvc/?username=gldnwindy&style=plastic&color=FF82DB&label=naples)
 
-<img width="735" height="547" alt="Untitled475_20260809190055" src="https://github.com/user-attachments/assets/0873b529-f67c-450e-b644-e129ca3c53aa" />
+<img width="580" height="765" alt="Untitled569_20261017033043" src="https://github.com/user-attachments/assets/f8754b53-9135-4a2d-af78-a853aef6178f" />
 
 
 
@@ -12,3 +16,5 @@
 
 <sub>[**rentry**](https://rentry.co/zoluu)  [**ata**](https://sugucurse.atabook.org/)
 [**matching**](https://fluffle.cc/weathersui)
+
+<img width="1500" height="500" alt="Untitled573_20261017040240" src="https://github.com/user-attachments/assets/ccb6e829-b601-46ae-8804-44e38ee03007" />
