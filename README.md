@@ -14,7 +14,7 @@
  
 <div align="center"> 
 
-<sub>[**rentry**](https://rentry.co/zoluu)  [**ata**](https://sugucurse.atabook.org/)
+  [**ata**](https://sugucurse.atabook.org/)
 [**matching**](https://fluffle.cc/weathersui)
 
 <img width="1500" height="500" alt="Untitled573_20261017040240" src="https://github.com/user-attachments/assets/ccb6e829-b601-46ae-8804-44e38ee03007" />
