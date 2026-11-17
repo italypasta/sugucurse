@@ -1,13 +1,13 @@
 
 
 <div align="center"> 
-<img width="1500" height="500" alt="Untitled573_20261017040235" src="https://github.com/user-attachments/assets/c140e8e0-e706-4840-a70c-4168df3e2691" />
 
 
-![](https://komarev.com/ghpvc/?username=italypasta&style=plastic&color=FFDEF1&label=northitaly)
 
-<img width="580" height="765" alt="Untitled569_20261017033043" src="https://github.com/user-attachments/assets/f8754b53-9135-4a2d-af78-a853aef6178f" />
+![](https://komarev.com/ghpvc/?username=italypasta&style=plastic&color=0E0E0E&label=soulreapers)
 
+
+<img width="736" height="906" alt="IMG_0772" src="https://github.com/user-attachments/assets/ae4e2256-69e5-480c-82be-d48857ee9134" />
 
 
 
@@ -17,4 +17,4 @@
   [**ata**](https://sugucurse.atabook.org/)
 [**matching**](https://fluffle.cc/weathersui)
 
-<img width="1500" height="500" alt="Untitled573_20261017040240" src="https://github.com/user-attachments/assets/ccb6e829-b601-46ae-8804-44e38ee03007" />
+
